@@ -1,0 +1,6 @@
+{
+  "block.playerboard.player_board": "Player Board",
+  "creativeTab.playerboard": "Player Board",
+  "text.playerboard.header": "Players online: %s",
+  "text.playerboard.more": "+%s more"
+}

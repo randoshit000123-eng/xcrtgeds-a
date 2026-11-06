@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "playerboard",
+  "version": "${version}",
+  "name": "Player Board",
+  "description": "Eine 3x3-Block grosse Wandtafel, die alle Spieler wie die Tab-Liste anzeigt.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["de.playerboard.PlayerBoardMod"],
+    "client": ["de.playerboard.client.PlayerBoardClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "key": {
+    "B": "minecraft:black_concrete",
+    "C": "minecraft:compass"
+  },
+  "result": {
+    "id": "playerboard:player_board",
+    "count": 1
+  }
+}
